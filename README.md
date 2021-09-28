@@ -1,1 +1,13 @@
 # POTFOLIO
+![블로그0](https://user-images.githubusercontent.com/90892290/135109689-1016c599-ed6c-4a0d-8894-688c826e7916.png)
+![블로그1](https://user-images.githubusercontent.com/90892290/135109694-cfc5972a-289f-476e-a064-5edaaa40960e.png)
+![블로그2](https://user-images.githubusercontent.com/90892290/135109700-fab62a65-b71c-4ab3-a188-7246a922c8ec.png)
+![블로그3](https://user-images.githubusercontent.com/90892290/135109706-1354cf2e-b388-4f37-bca3-a233e9dd5e81.png)
+![블로그4](https://user-images.githubusercontent.com/90892290/135109711-9bdd6ddf-aa14-4315-91d7-e936385fde9d.png)
+![블로그5](https://user-images.githubusercontent.com/90892290/135109714-8a705e6e-0df7-438f-873e-7298642c5ef6.png)
+![블로그6](https://user-images.githubusercontent.com/90892290/135109716-0bcb9672-3c0b-4ff7-a1c1-0085cbc39a98.png)
+![블로그7](https://user-images.githubusercontent.com/90892290/135109717-28698ea5-636f-4979-91e9-837be1d0445e.png)
+![블로그8](https://user-images.githubusercontent.com/90892290/135109718-28013c27-eac9-446c-b0de-cfe46a6ed0d8.png)
+![블로그9](https://user-images.githubusercontent.com/90892290/135109721-2ae169f1-f6ea-4408-8cd4-cfb2ebee85d6.png)
+![블로그10](https://user-images.githubusercontent.com/90892290/135109723-8cede8dc-9c01-425a-a15c-92153d8bd0ca.png)
+![블로그11](https://user-images.githubusercontent.com/90892290/135109729-ad013ea1-452a-4bc3-a59b-c757bc21de72.png)
