@@ -1,4 +1,4 @@
-# POTFOLIO
+# EZEN STUDIO
 ![블로그0](https://user-images.githubusercontent.com/90892290/135109689-1016c599-ed6c-4a0d-8894-688c826e7916.png)
 ![블로그1](https://user-images.githubusercontent.com/90892290/135109694-cfc5972a-289f-476e-a064-5edaaa40960e.png)
 ![블로그2](https://user-images.githubusercontent.com/90892290/135109700-fab62a65-b71c-4ab3-a188-7246a922c8ec.png)
